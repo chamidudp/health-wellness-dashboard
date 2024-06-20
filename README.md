@@ -42,3 +42,21 @@ A comprehensive health and wellness dashboard application that integrates variou
    ```bash
    git clone https://github.com/yourusername/health-wellness-dashboard.git
    cd health-wellness-dashboard
+
+   Usage
+Register a new user:
+
+Go to /register on your frontend URL.
+Fill out the registration form and submit.
+Login:
+
+Go to /login on your frontend URL.
+Enter your credentials and login.
+Dashboard:
+
+Once logged in, you will be redirected to the dashboard.
+Customize your widgets and track your health metrics.
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+
